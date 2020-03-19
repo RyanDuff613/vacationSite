@@ -1,21 +1,16 @@
 
 blockquote {
-  font-family: serif;
 }
 
 .panel-body{
-  font-family: 'Times New Roman', Times, serif;
-  background-color: rgb(185, 185, 245);
-  color: white;
+  
 }
 .panel-title {
-  font-family: 'Times New Roman', Times, serif;
-  background-color: rgb(122, 122, 247);
-  color: white;
 }
 
 body {
   background-color: rgb(253, 169, 121);
+  font-family: monospace;
 }
 
 .jumbotron {
@@ -25,6 +20,8 @@ body {
 }
  .jumbotron h1 {
    color: white;
+   font-weight: bold;
+   font-family: monospace;
  }
 
  .activity {
