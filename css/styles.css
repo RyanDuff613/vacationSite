@@ -40,3 +40,16 @@ blockquote {
   width: 30%;
   padding: 20px;
 }
+
+body {
+  background-color: bisque;
+}
+
+.jumbotron {
+  margin: 30px;
+  background-size: cover;
+  background-image: url("../images/jumbo.jpeg")
+}
+ .jumbotron h1 {
+   color: white;
+ }
