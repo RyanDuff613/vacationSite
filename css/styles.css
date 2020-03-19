@@ -15,7 +15,7 @@ blockquote {
 }
 
 body {
-  background-color: bisque;
+  background-color: rgb(253, 169, 121);
 }
 
 .jumbotron {
@@ -28,25 +28,43 @@ body {
  }
 
  .activity {
+  font-weight: normal;
+  font-size: medium;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 
  }
 
- .activityHead {
-
+ .activityHead {  
+   font-weight: bold;
+   font-size: large;
  }
 
- .price {
+ .cost {
+  font-weight: bold;
+  font-size: large;
+ }
 
+ .dollarAmount {
+  font-weight: normal;
+  font-size: large;
  }
 
 .packageHead {
-
+  font-weight: bold;
+  font-size: 25px;
+  text-transform: uppercase;
 }
 
 .packageBody {
-
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .date {
-  
+  font-style: italic;
+  font-size: smaller;
+}
+
+.packageColumn {
+  font-family: monospace;
+  color: white;
 }
