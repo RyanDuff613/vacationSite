@@ -1,26 +1,5 @@
-p {
-  float: left;
-  width: 256px;
-  padding: 20px;
-}
-
-img.columnPic {
-  float: left;
-  width: 256px;
-  padding: 20px;
-}
-
-.column {
-  float: left;
-  width: 256px;
-  padding: 20px;
-  height: 700px;
-}
 
 blockquote {
-  float: left;
-  width: 30%;
-  padding: 20px;
   font-family: serif;
 }
 
@@ -28,17 +7,11 @@ blockquote {
   font-family: 'Times New Roman', Times, serif;
   background-color: rgb(185, 185, 245);
   color: white;
-  float: left;
-  width: 30%;
-  padding: 20px;
 }
 .panel-title {
   font-family: 'Times New Roman', Times, serif;
   background-color: rgb(122, 122, 247);
   color: white;
-  float: left;
-  width: 30%;
-  padding: 20px;
 }
 
 body {
