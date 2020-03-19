@@ -14,4 +14,12 @@ img.columnPic {
   float: left;
   width: 256px;
   padding: 20px;
+  height: 700px;
+}
+
+blockquote {
+  float: left;
+  width: 100%;
+  padding: 20px;
+  font-family: serif;
 }
