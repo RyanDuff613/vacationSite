@@ -1,0 +1,17 @@
+p {
+  float: left;
+  width: 256px;
+  padding: 20px;
+}
+
+img.columnPic {
+  float: left;
+  width: 256px;
+  padding: 20px;
+}
+
+.column {
+  float: left;
+  width: 256px;
+  padding: 20px;
+}
